@@ -39,6 +39,7 @@ You are welcome to use these, but issues opened related to these will be closed 
 |schtasksstop| Stop a running scheduled task|
 |setuserpass| Set a user's password|
 |shspawnas| A misguided attempt at injecting code into a newly spawned process|
+|suspendresume| Suspend or resume a process|
 |unexpireuser| Set a user account to never expire|
 
 ## Contributing
